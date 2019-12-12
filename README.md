@@ -1,12 +1,4 @@
-<p align="center">
-    <a href="http://sigmoidal.ai" alt="Contributors">
-        <img src="https://img.shields.io/badge/sigmoidal-ai-yellow" />
-    </a>
-    <img src="/img/python-logo.svg">
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR">
-        <img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" height="20px">
-    </a>
-</p>
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 # Portfólio de Data Science
 
