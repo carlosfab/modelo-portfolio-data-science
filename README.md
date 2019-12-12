@@ -2,9 +2,11 @@
 
 # Portfólio de Data Science
 
-Minha descrição:
+Coloque uma descrição sobre sua carreira, projetos e o que se pode esperar deste portfólio...
 
-* [LinedIn](https://www.linkedin.com/in/carlosfab//)
+Escreva uma descrição bem detalhada e introdutória.
+
+* [LinkedIn](https://www.linkedin.com/in/carlosfab//)
 * [Blog](https://sigmoidal.ai)
 
 ## Projetos de Data Science
